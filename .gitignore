@@ -1,0 +1,31 @@
+# Ignore OS generated files
+#copyd from bing ai (chatGPT)
+
+
+.DS_Store
+Thumbs.db
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build folder
+build/
+
+# Ignore environment variables
+.env
+
+# Ignore IDE settings
+.idea/
+.vscode/
+
+# Ignore package-lock.json file
+package-lock.json
+
+# Ignore yarn.lock file
+yarn.lock
+
+# Ignore coverage folder
+coverage/

@@ -1,0 +1,97 @@
+
+
+<airport>
+    <pilot>
+        <ID>1234</ID>
+        <name>
+            <first_name>roni</first_name>
+            <last_name>pix</last_name>
+        </name>    
+        <age>40</age>
+        <address>
+            <addres_city>Los Angeles</addres_city>
+            <state>California</state>
+            <pin>201301</pin>
+        </address>
+    </pilot>
+
+    <pilot>
+        <ID>48378</ID>
+        <name>
+            <first_name>ben</first_name>
+            <last_name>gong</last_name>
+        </name>    
+        <age>42</age>
+        <address>
+            <addres_city>tel aviv</addres_city>
+            <state>israel</state>
+            <pin>89893897</pin>
+        </address>
+    </pilot>
+
+    <pilot>
+        <ID>09089788</ID>
+        <name>
+            <first_name>morty</first_name>
+            <last_name>smith</last_name>
+        </name>    
+        <age>22</age>
+        <address>
+            <addres_city>paris</addres_city>
+            <state>france</state>
+            <pin>0879878</pin>
+        </address>
+    </pilot>
+
+
+    <plains>
+        <ID>62626</ID>
+        <modle>boing 747</modle>
+        <status>rady</status>
+    </plains>
+
+    <plains>
+        <ID>696926</ID>
+        <modle>airbus 420</modle>
+        <status>rady</status>
+    </plains>
+
+    <plains>
+        <ID>25688</ID>
+        <modle>boing 535</modle>
+        <status>rady</status>
+    </plains>
+
+    <destinations>
+        <Europe >
+            <city>paris</city>
+            <city>budapest</city>
+            <city>kiev</city>
+        </Europe >
+
+        <Asia>
+            <city>ban</city>
+            <city></city>
+            <city></city>
+        </Asia>
+
+        <America> 
+            <city>las vegas</city>
+            <city>new york</city>
+            <city>al paso</city>
+        </America>
+
+        <Middle_east>
+            <city>jerusalem</city>
+            <city>dubai</city>
+            <city>tel aviv</city>
+        </Middle_east>
+
+        <Africa>
+            <city>Kinshasa</city>
+            <city>Lagos</city>
+            <city>Kinshasa</city>
+        </Africa> 
+
+    </destinations>
+</airport> 
